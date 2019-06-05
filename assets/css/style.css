@@ -2,8 +2,30 @@ h1 {
     font-family: 'Bangers';
     font-size: 50px;
     color: lightcoral;
-    height: 400px;
+    height: 40px;
     width: 800px;
     margin-left: 500px;
     text-decoration: underline;
 }
+h2 {
+    font-family: 'Bangers';
+    color: lightcoral;
+    text-decoration: underline;
+    margin-left: 450px; 
+}
+h3 {
+    font-family: 'Bangers';
+    color: lightcoral;
+    text-decoration: underline;
+    margin-left: 425px;
+}
+.container {
+    border: solid 5px;
+    width: 800px;
+    height: 670px;
+    color: lightcoral;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
