@@ -28,4 +28,26 @@ h3 {
     margin-top: 50px;
     margin-bottom: 100px;
 }
-
+#container {
+    border: solid 5px;
+    width: 800px;
+    height: 500px;
+    color: lightcoral;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 125px;
+}
+.rightGuess {
+    color: lightcoral;
+    font-size: 30px;
+}
+.wrongGuess {
+    color: lightcoral;
+    font-size: 30px; 
+}
+.underscores {
+    text-align: center;
+    height: 300px;
+    margin: 0 auto;
+    font-size: 90px;
+}
