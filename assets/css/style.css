@@ -4,7 +4,7 @@ h1 {
     color: lightcoral;
     height: 40px;
     width: 800px;
-    margin-left: 500px;
+    margin-left: 550px;
     text-decoration: underline;
 }
 h2 {
@@ -17,7 +17,7 @@ h3 {
     font-family: 'Bangers';
     color: lightcoral;
     text-decoration: underline;
-    margin-left: 425px;
+    margin-left: 474px;
 }
 .container {
     border: solid 5px;
